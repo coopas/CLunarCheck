@@ -1,0 +1,5 @@
+name: CLunarCheck
+version: 1.0
+main: git.coopas.clunarcheck.Main
+authors: [Coopas]
+description: Plugin desenvolvido para verificar se o Player esta utilizando o LunarClient

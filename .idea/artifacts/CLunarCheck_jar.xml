@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CLunarCheck:jar">
+    <output-path>$USER_HOME$/Documents/1.21.2 test/plugins</output-path>
+    <root id="archive" name="CLunarCheck.jar">
+      <element id="module-output" name="CLunarCheck" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/1.21.2 test/server.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
